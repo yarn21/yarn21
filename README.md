@@ -15,4 +15,4 @@ path cl.exe
 
 GRAALVM_HOME
 INCLUDE
-vcvsall.bat x64
+vcvarsall.bat x64
